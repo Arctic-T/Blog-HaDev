@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(243, 243, 243);
+}
+
+img {
+  float: left;
+
+  margin: 0 10px 10px 0;
+}
+.estilos {
+  background-color: white;
+  padding: 15px;
+  margin: 20px 0;
+  border: 1px solid rgb(224, 224, 224);
+}
+
+h2 {
+  color: rgb(255, 123, 0);
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+#titulo-sidebar {
+  color: black;
+  font-size: 28px;
+}
+
+.btn-danger:focus {
+  background-color: rgb(209, 66, 0);
+}
+
+.btn-danger {
+  background-color: rgb(255, 123, 0);
+  border-color: rgb(255, 123, 0);
+}
+
+.btn-danger:hover {
+  background-color: rgb(209, 66, 0);
+}
+
+.sidebar {
+  background-color: white;
+  padding: 15px;
+  margin: 20px 0;
+  border: 1px solid rgb(224, 224, 224);
+}
+
+.link-titulo {
+  color: rgb(255, 123, 0);
+  text-decoration-line: none;
+}
+
+.link-titulo:hover {
+  color: rgb(255, 123, 0);
+}
+
+.lista-sidebar {
+  color: black;
+  text-decoration-line: none;
+}
+
+.lista-sidebar:hover {
+  color: black;
+}
+
+.btn-primary {
+  margin: 20px 0 5px 0;
+}
